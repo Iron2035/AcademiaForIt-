@@ -1,3 +1,6 @@
 node_modules/
 .env
 dist/
+git add .
+git commit -m "Inicialización del proyecto"
+git push origin main
